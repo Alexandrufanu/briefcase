@@ -2,6 +2,7 @@
 
 # Briefcase
 
+
 [![Python Versions](https://img.shields.io/pypi/pyversions/briefcase.svg)](https://pypi.python.org/pypi/briefcase)
 [![PyPI Version](https://img.shields.io/pypi/v/briefcase.svg)](https://pypi.python.org/pypi/briefcase)
 [![Maturity](https://img.shields.io/pypi/status/briefcase.svg)](https://pypi.python.org/pypi/briefcase)
